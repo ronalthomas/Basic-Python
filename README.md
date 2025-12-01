@@ -1,1 +1,2 @@
-#These are some basic if and else conditional exerices in Python
+#Conditional Statements
+Some basic conditional statement exercises in Python using "if" and "else"
